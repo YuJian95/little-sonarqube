@@ -1,4 +1,4 @@
-# sonarqube
+# little-sonarqube
 
 > 基于 sonarqube 8.9 社区版构建，增加多分支分析插件以及中文语言包。
 
