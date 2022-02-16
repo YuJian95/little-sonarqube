@@ -40,3 +40,7 @@ docker buildx build -t yujian95/sonarqube:8.9 --platform=linux/amd64 -o type=doc
 docker login
 docker push yujian95/sonarqube:8.9
 ```
+
+## TODO
+
+1. 集成 sonar-gitlab https://github.com/javamachr/sonar-gitlab-plugin
