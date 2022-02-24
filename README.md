@@ -21,6 +21,7 @@ POSTGRES_PASSWORD: postgrespwd
 |sonarqube-community-branch-plugin|一个SonarQube插件，允许在Community版本中进行分支分析。|https://github.com/mc1arke/sonarqube-community-branch-plugin|
 |sonar-l10n-zh|中文语言包|https://github.com/xuhuisheng/sonar-l10n-zh|
 |sonar-gitlab-plugin|gitlab 提交分析|https://github.com/gabrie-allaigre/sonar-gitlab-plugin|
+|sonar-pmd-plugin|阿里代码规范|https://github.com/caowenliang/sonar-pmd-p3c|
 
 ## 使用说明
 
