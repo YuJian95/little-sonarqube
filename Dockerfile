@@ -8,3 +8,5 @@ COPY 3rd-party-plugins/sonarqube-community-branch-plugin-1.0.2.jar /opt/sonarqub
 COPY 3rd-party-plugins/sonar-l10n-zh-plugin-1.26.jar /opt/sonarqube/extensions/plugins/
 # Gitlab 提交分析
 COPY 3rd-party-plugins/sonar-gitlab-plugin-4.1.0-SNAPSHOT.jar /opt/sonarqube/extensions/plugins/
+# 阿里巴巴代码规范插件
+COPY 3rd-party-plugins/sonar-pmd-plugin-3.2.1.jar /opt/sonarqube/extensions/plugins
